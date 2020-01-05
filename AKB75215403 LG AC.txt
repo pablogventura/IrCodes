@@ -1,0 +1,48 @@
+The model of the air conditioner is: LG S4-w12ja3aa. The remote control is AKB75215403.
+
+LG2 (28 Bits)
+
+Codes:
+On, Cool, 18 deg C, Fan 5
+
+Code : 0x8800347
+
+Off, Cool, 18 deg C, Fan 5
+
+Code : 0x88C0051
+
+On, Cool, 19 deg C, Fan 5
+
+Code : 0x8808440
+
+On, Cool, 19 deg C, Fan Auto
+
+Code : 0x8808451
+
+On, Auto, 23 deg C, Fan 5
+
+Code : 0x880B847
+
+On, Dehumidifier, --, Fan 5
+
+Code : 0x8809946
+
+On, Heat, 25 deg C, Fan 5
+
+Code : 0x880CA4A
+
+On, Fan, --, Fan 5
+
+Code : 0x880A341
+
+On, Cool, 22 deg C, Fan 5, ENERGY SAVE MODE ON
+
+Code : 0x8810045
+
+On, Cool, 22 deg C, Fan 5, ENERGY SAVE MODE OFF
+
+Code : 0x8810056
+
+On, Cool, --, Fan 5, TURBO/JET MODE ON
+
+Code : 0x8810089
