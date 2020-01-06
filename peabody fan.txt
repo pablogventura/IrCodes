@@ -1,0 +1,68 @@
+Peabody Fan
+
+Remote Control Chip:
+cms5015-d1616cn
+
+
+
+timer/preset
+Timestamp : 001399.572
+Library   : v2.7.1
+
+Protocol  : UNKNOWN
+Code      : 0xE0984BB6 (12 Bits)
+uint16_t rawData[23] = {1304, 378,  1302, 408,  434, 1248,  1272, 382,  1324, 364,  466, 1234,  458, 1258,  434, 1256,  1292, 370,  464, 1258,  436, 1230,  464};  // UNKNOWN E0984BB6
+
+g-eco
+Timestamp : 001478.089
+Library   : v2.7.1
+
+Protocol  : UNKNOWN
+Code      : 0x143226DB (12 Bits)
+uint16_t rawData[23] = {1300, 378,  1302, 376,  466, 1248,  1272, 380,  1302, 388,  466, 1258,  458, 1208,  484, 1206,  462, 1258,  456, 1206,  1298, 388,  466};  // UNKNOWN 143226DB
+
+wind-direction
+Timestamp : 001554.711
+Library   : v2.7.1
+
+Protocol  : UNKNOWN
+Code      : 0x39D41DC6 (12 Bits)
+uint16_t rawData[23] = {1300, 378,  1302, 376,  466, 1244,  1276, 380,  1302, 388,  466, 1252,  442, 1248,  1278, 388,  466, 1252,  442, 1250,  442, 1250,  442};  // UNKNOWN 39D41DC6
+
+mode
+Timestamp : 001656.466
+Library   : v2.7.1
+
+Protocol  : UNKNOWN
+Code      : 0x371A3C86 (12 Bits)
+uint16_t rawData[23] = {1296, 382,  1294, 386,  460, 1248,  1272, 386,  1294, 394,  462, 1254,  444, 1248,  440, 1252,  442, 1248,  1278, 388,  462, 1254,  442};  // UNKNOWN 371A3C86
+
+power
+Timestamp : 001693.996
+Library   : v2.7.1
+
+Protocol  : UNKNOWN
+Code      : 0xA32AB931 (12 Bits)
+uint16_t rawData[23] = {1300, 376,  1302, 376,  466, 1246,  1274, 380,  1302, 386,  466, 1256,  438, 1254,  438, 1232,  460, 1256,  436, 1256,  438, 1252,  1274};  // UNKNOWN A32AB931
+
+speed up
+Timestamp : 001730.050
+Library   : v2.7.1
+
+Protocol  : UNKNOWN
+Code      : 0x4EA240AE (12 Bits)
+uint16_t rawData[23] = {1242, 418,  1262, 418,  426, 1278,  1240, 420,  1262, 426,  1262, 428,  426, 1288,  404, 1288,  406, 1286,  406, 1284,  1242, 426,  1264};  // UNKNOWN 4EA240AE
+
+speeddown
+
+Timestamp : 001763.228
+Library   : v2.7.1
+
+Protocol  : UNKNOWN
+Code      : 0x4E87E0AB (12 Bits)
+uint16_t rawData[23] = {1264, 414,  1264, 416,  428, 1276,  1242, 418,  1264, 424,  1264, 426,  428, 1284,  406, 1286,  406, 1284,  1242, 426,  1264, 426,  428};  // UNKNOWN 4E87E0AB
+
+
+
+
+
